@@ -19,6 +19,7 @@
     1. [Реализация на массиве](data_structures/segment_tree/array_implementation.md)
     2. [Неявное ДО](data_structures/segment_tree/implicit.md)
     3. [Отложенные операции](data_structures/segment_tree/lazy_propagation.md)
+    4. [Merge sort tree](data_structures/segment_tree/merge_sort_tree.md)
 
 ## C. Кружки
 1. [Т-поколение параллель B 2025](groups/t-generation_b_2025.md)
