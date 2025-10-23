@@ -85,7 +85,7 @@ dp[0] = -INF;
 pos[0] = -1;
 int len = 0; // длина НВП
 for (int i = 0; i < n; i++) {
-	int j = lower_bound(all(dp), a[i]) - dp.begin(); // бин-поиск
+	int j = lower_bound(dp.begin(), dp.end(), a[i]) - dp.begin(); // бин-поиск
 	// dp_j >= a_i всегда
 	if (dp[j] > a[i]) {
 		dp[j] = a[i];
