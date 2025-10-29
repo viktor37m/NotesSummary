@@ -25,7 +25,7 @@ $$
 Объединяя эти 2 случая получаем:
 
 $$
-new\_d[v][u] = \min \begin{cases}
+new \space d[v][u] = \min \begin{cases}
 d[v][u] \\
 d[v][k] + d[k][u]
 \end{cases}

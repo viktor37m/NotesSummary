@@ -17,7 +17,7 @@
     1. [Обход в ширину](graphs/shortest_paths/bfs.md)
     2. [Алгоритм Дейкстры](graphs/shortest_paths/dijkstra.md)
     3. [Алгоритм Форда-Беллмана](graphs/shortest_paths/bellman-ford.md)
-    4. [Алгоритм Флойда-Уоршелла](graphs/shortest_paths/floyd_warshell.md)
+    4. [Алгоритм Флойда-Уоршелла](graphs/shortest_paths/floyd_warshall.md)
     5. [Отрицательный цикл](graphs/shortest_paths/negative_cycles.md)
     6. [Минимальный средне-взвешанный цикл](graphs/shortest_paths/minimum_mean_weight_cycle.md)
 
