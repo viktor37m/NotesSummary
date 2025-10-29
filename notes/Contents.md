@@ -13,6 +13,13 @@
     6. [Компоненты сильной связности](graphs/dfs/scc.md)
     7. [Эйлеров цикл](graphs/dfs/eulerian_cycle.md)
     8. [2-SAT](graphs/dfs/2-sat.md)
+2. [Кратчайшие пути](graphs/shortest_paths/shortest_paths.md)
+    1. [Обход в ширину](graphs/shortest_paths/bfs.md)
+    2. [Алгоритм Дейкстры](graphs/shortest_paths/dijkstra.md)
+    3. [Алгоритм Форда-Беллмана](graphs/shortest_paths/bellman-ford.md)
+    4. [Алгоритм Флойда-Уоршелла](graphs/shortest_paths/floyd_warshell.md)
+    5. [Отрицательный цикл](graphs/shortest_paths/negative_cycles.md)
+    6. [Минимальный средне-взвешанный цикл](graphs/shortest_paths/minimum_mean_weight_cycle.md)
 
 ## B. [Динамическое программирование](dynamic_programming/dynamic_programming.md)
 1. Общие приёмы
