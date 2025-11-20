@@ -29,13 +29,14 @@ void bfs(int start) {
 	queue<int> q; // очередь
 	// добавляем стартовую вершину
 	q.push(start);
-	pred[s] = start;
+	pred[start] = start;
+	used[start] = true;
 	
 	while (!q.empty()) {
 		int v = q.front(); q.pop(); // берём сначала
-		used[v] = true;
 		for (auto u: g[v]) { // проходимся по смежным вершинам
 			if (!used[u]) {
+				used[u] = true;
 				q.push(u); // добавляем в конец
 				pred[u] = v; // обновляем предка
 			}
