@@ -3,9 +3,11 @@
 В задаче пересечения мы будем пользоваться в основном **векторным** и **скалярным** произведением. Каждую операцию можно представить как определённый *фильтр*, которым мы будем отсеивать множество всех вариантов.
 
 *Фильтр* векторного произведения:
+
 ![](/files/CrossProductFilter.png)
 
 *Фильтр* скалярного произведения:
+
 ![](/files/DotProductFilter.png)
 
 Также полезно определить функцию $sign$ - показывающая знак числа:
@@ -88,17 +90,14 @@ $$
 $$
 \left[
 \begin{array}{ll}
-
 \begin{cases}
 sign(\vec{AB} \times \vec{CD}) \ne 0 \\
 sign(\vec{AB} \times \vec{AC}) \ne sign(\vec{AB} \times \vec{CD})
 \end{cases} \\
-
 \begin{cases}
 \vec{AB} \times \vec{CD} = 0 \\
 \vec{AB} \times \vec{AC} = 0
 \end{cases}
-
 \end{array}
 \right.
 $$

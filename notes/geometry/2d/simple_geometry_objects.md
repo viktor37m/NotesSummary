@@ -79,7 +79,6 @@ $$
 x_1 + t x_2 = x \\
 y_1 + t y_2 = y
 \end{cases} \implies
-
 t = \frac{x - x_1}{x_2}
 $$
 
