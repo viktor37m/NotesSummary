@@ -40,6 +40,16 @@
     3. [Отложенные операции](data_structures/segment_tree/lazy_propagation.md)
     4. [Merge sort tree](data_structures/segment_tree/merge_sort_tree.md)
 
-## D. Кружки
+## D. [Геометрия](geometry/geometry.md)
+1. 2D
+    1. [Точки и вектора](geometry/2d/vectors_and_dots.md)
+    2. [Векторное произведение](geometry/2d/cross_product.md)
+    3. [Скалярное произведение](geometry/2d/dot_product.md)
+    4. [Простые геометрические объекты](geometry/2d/simple_geometry_objects.md)
+    5. [Пересечения](geometry/2d/intersections.md)
+    6. [Расстояния](geometry/2d/distance.md)
+    7. [Реализация](geometry/2d/implementation.md)
+
+## E. Кружки
 1. [Т-поколение параллель B 2025](groups/t-generation_b_2025.md)
 
