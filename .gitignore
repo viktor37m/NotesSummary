@@ -1,4 +1,6 @@
 .vscode
 
 config1.conf
+config2.conf
+rules.json
 parser.py
